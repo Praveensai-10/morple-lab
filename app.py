@@ -1,3 +1,4 @@
+pip install flask pytz
 from flask import Flask
 import getpass
 import subprocess
